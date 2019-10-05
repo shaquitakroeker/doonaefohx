@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jaengeetu.jefoy.ru/sitemap.xml
